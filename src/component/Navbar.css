@@ -1,0 +1,27 @@
+nav{
+	opacity:0.8;
+	
+}
+
+ul li{
+   display: inline;
+   margin: 10px;
+   font-size: 17px;
+   overflow:hidden
+
+}
+li a {
+	color:grey;
+	text-align:center;
+	padding:14px 14px;
+	text-decoration: none;
+
+}
+li a:hover{
+	color:hotpink;
+	text-decoration: none;
+}
+.App-logo{
+	height: 5vmin;
+  pointer-events: none;
+}
